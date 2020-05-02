@@ -12,13 +12,13 @@ Time spent: **18** hours spent in total
 2) Amun
 3) Snort
 
-# Any issues you encountered
+## Any issues you encountered
 The hardest part about all this was setting up GCP, and then making the mhn-admin VM along with the honeypot VM. There was some difficulty with running the wget command and not seeing it in the view sensors portion on the browser. 
 
-# Attack Summary
+## Attack Summary
 number of attacks: 12,928
 
-# Top 5 Attacker IPs:
+## Top 5 Attacker IPs:
 
 1) 118.89.239.33 (5,123 attacks)
 2) 123.207.146.91 (2,131 attacks)
@@ -26,7 +26,7 @@ number of attacks: 12,928
 4) 46.166.142.231 (384 attacks)
 5) 50.232.230.82 (109 attacks)
 
-# Top 5 Attacked Ports:
+## Top 5 Attacked Ports:
 
 1) 80 (7,123 times)
 2) 445 (1,323 times)
@@ -34,8 +34,8 @@ number of attacks: 12,928
 4) 8080 (293 times)
 5) 3306 (131 times)
 
-# Any unresolved questions raised by the data collected
-None as of right now.
+## Any unresolved questions raised by the data collected
+None
 
-# Malware Collected
+## Malware Collected
 None

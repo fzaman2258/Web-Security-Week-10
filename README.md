@@ -13,7 +13,7 @@ Time spent: **18** hours spent in total
 3) Snort
 
 # Any issues you encountered
-The hardest part of this entire lab is setting up the honeypots in GCP. Took up most of the time...
+The hardest part about all this was setting up GCP, and then making the mhn-admin VM along with the honeypot VM. There was some difficulty with running the wget command and not seeing it in the view sensors portion on the browser. 
 
 # Attack Summary
 number of attacks: 12,928

@@ -16,23 +16,23 @@ Time spent: **18** hours spent in total
 The hardest part of this entire lab is setting up the honeypots in GCP. Took up most of the time...
 
 # Attack Summary
-number of attacks: 11,915
+number of attacks: 12,928
 
 # Top 5 Attacker IPs:
 
-118.89.239.33 (4,063 attacks)
-123.207.146.91 (3,962 attacks)
-209.141.35.236 (365 attacks)
-46.166.142.231 (336 attacks)
-50.232.230.82 (310 attacks)
+1) 118.89.239.33 (5,123 attacks)
+2) 123.207.146.91 (2,131 attacks)
+3) 209.141.35.236 (1,232 attacks)
+4) 46.166.142.231 (384 attacks)
+5) 50.232.230.82 (109 attacks)
 
 # Top 5 Attacked Ports:
 
-80 (8,191 times)
-445 (1,413 times)
-5060 (479 times)
-8080 (174 times)
-3306 (132 times)
+1) 80 (7,123 times)
+2) 445 (1,323 times)
+3) 5060 (632 times)
+4) 8080 (293 times)
+5) 3306 (131 times)
 
 # Any unresolved questions raised by the data collected
 None as of right now.

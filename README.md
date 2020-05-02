@@ -7,10 +7,10 @@ Time spent: **18** hours spent in total
 
 >Objective: In this assignment, you will stand up a basic honeypot and demonstrate its effectiveness at detecting and/or collecting data about an attack.
 
-Which Honeypot(s) you deployed
-![](./HoneyPot.gif)
-*Dionaea with HTTP
-
+- [ ] Which Honeypot(s) you deployed: ![](./HoneyPot.gif)
+1) Dionaea with HTTP
+2) Amun
+3) Snort
 
 # Any issues you encountered
 The hardest part of this entire lab is setting up the honeypots in GCP. Took up most of the time...
